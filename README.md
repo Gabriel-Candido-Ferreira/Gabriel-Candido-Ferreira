@@ -1,7 +1,5 @@
 # 💫 Sobre Mim:
-- 🔭 Atualmente estou trabalhando em um projeto de microsserviços integrado com AR no grupo de pesquisa NuPPGIN.
-- 🌱 Estou aprendendo sobre desenvolvimento de backend com Javascript|Node.JS|Express e Microsserviços.
-- 👯 Estou procurando colaborar para o crescimento da comunidade de tecnologia.
+- 🔭 Atualmente estou trabalhando em um projeto pesquisa sobre IA, um sistema de apoio à decisão aplicado ao planejamento estratégico no grupo de pesquisa GEDAIA.
 
 ## 🌐 Redes Sociais:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/gabriel_cfd_/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-candido-75126829a/) 
