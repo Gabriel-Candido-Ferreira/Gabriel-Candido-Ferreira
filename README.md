@@ -18,6 +18,6 @@
 ![Linguagens mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriel-Candido-Ferreira&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Gabriel-Candido-Ferreira&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=Gabriel-Candido-Ferreira&label=Profile%20Views%20Visualizac%C3%B5es%20de%20perfil&color=1&pretty=true)](https://visitcount.itsvg.in)
 
 <!-- Orgulhosamente criado com GPRM (https://gprm.itsvg.in) -->
