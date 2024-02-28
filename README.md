@@ -13,11 +13,13 @@
  ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)  ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) 
 
 # 📊 Estatísticas do GitHub:
+[![](https://visitcount.itsvg.in/api?id=Gabriel-Candido-Ferreira&label=Visualizac%C3%B5es%20de%20perfil&color=1&pretty=true)](https://visitcount.itsvg.in)
+
+
 ![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=Gabriel-Candido-Ferreira&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Gabriel-Candido-Ferreira&theme=dark&hide_border=false)<br/>
 ![Linguagens mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriel-Candido-Ferreira&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Gabriel-Candido-Ferreira&label=Profile%20Views%20Visualizac%C3%B5es%20de%20perfil&color=1&pretty=true)](https://visitcount.itsvg.in)
 
 <!-- Orgulhosamente criado com GPRM (https://gprm.itsvg.in) -->
