@@ -3,6 +3,9 @@
 - 🌱 Explorando o desenvolvimento de backend, concentro-me em Python para a engenharia de dados e no framework Django, voltado para aplicações web.
 - 👯 Tenho o objetivo de contribuir para o crescimento da comunidade de tecnologia, compartilhando conhecimento, colaborando em projetos e participando ativamente de eventos e iniciativas relacionadas ao mundo da tecnologia.
 - 🚀 Estou entusiasmado em aplicar esses conhecimentos para desenvolver soluções inovadoras e atender às demandas crescentes do mundo da tecnologia.
+- 📍 Brasil
+- 💻 Programdor
+- 📫 Email para contato: gabrielcandidodo@gmail.com
 
 ## 🌐 Redes Sociais:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/gabriel_cfd_/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-candido-75126829a/) 
