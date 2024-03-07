@@ -21,8 +21,6 @@
 
 ![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=Gabriel-Candido-Ferreira&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Gabriel-Candido-Ferreira&theme=dark&hide_border=false)<br/>
-![Linguagens mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriel-Candido-Ferreira&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
 ---
 
 <!-- Orgulhosamente criado com GPRM (https://gprm.itsvg.in) -->
