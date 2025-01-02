@@ -1,8 +1,8 @@
 # 💫 Sobre Mim:
-- 🔭 Atualmente estou trabalhando em um projeto pesquisa sobre IA, um sistema de apoio à decisão aplicado ao planejamento estratégico no grupo de pesquisa GEDAIA.
-- 🌱 Explorando o desenvolvimento de backend, concentro-me aprendendo Python para a engenharia de dados e no framework Django, voltado para aplicações web.
-- 👯 Tenho o objetivo de contribuir para o crescimento da comunidade de tecnologia, compartilhando conhecimento, colaborando em projetos e participando ativamente de eventos e iniciativas relacionadas ao mundo da tecnologia.
-- 🚀 Estou entusiasmado em aplicar esses conhecimentos para desenvolver soluções inovadoras e atender às demandas crescentes do mundo da tecnologia.
+- 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
+- 🎓 Estudando Bacharelado em Ciência da Computação no IF Goiano - Campus Morrinhos.
+- 💼 Trabalhando como Desenvolvedor be Software na Crono Wise.
+- 🌱 Aprendendo mais sobre Ciência de Dados.
 - 📍 Brasil
 - 💻 Programdor
 - 📫 Email para contato: gabrielcandidodo@gmail.com
@@ -22,5 +22,3 @@
 ![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=Gabriel-Candido-Ferreira&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Gabriel-Candido-Ferreira&theme=dark&hide_border=false)<br/>
 ---
-
-<!-- Orgulhosamente criado com GPRM (https://gprm.itsvg.in) -->
