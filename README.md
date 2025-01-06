@@ -52,8 +52,6 @@
 </div>
 
 ###
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=Gabriel-Candido-Ferreira&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Gabriel-Candido-Ferreira&theme=dark&hide_border=false)<br/>
 ---
 
 
