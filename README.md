@@ -47,6 +47,11 @@
 [![](https://visitcount.itsvg.in/api?id=Gabriel-Candido-Ferreira&label=Visualizac%C3%B5es%20de%20perfil&color=1&pretty=true)](https://visitcount.itsvg.in)
 
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Gabriel-Candido-Ferreira&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+</div>
+
+###
 ![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=Gabriel-Candido-Ferreira&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Gabriel-Candido-Ferreira&theme=dark&hide_border=false)<br/>
 ---
