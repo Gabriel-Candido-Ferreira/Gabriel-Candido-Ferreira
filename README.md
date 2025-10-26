@@ -1,8 +1,8 @@
 # 💫 Sobre Mim:
 - 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
 - 🎓 Estudando Bacharelado em Ciência da Computação no IF Goiano - Campus Morrinhos.
-- 💼 Trabalhando como Desenvolvedor be Software na Crono Wise.
-- 🌱 Aprendendo mais sobre Ciência de Dados.
+- 💼 Trabalhando como Desenvolvedor Software Back-end na SmartNX.
+- 🌱 Aprendendo mais sobre Microsserviços.
 - 📍 Brasil
 - 💻 Programdor
 - 📫 Email para contato: gabrielcandidodo@gmail.com
